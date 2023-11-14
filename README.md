@@ -19,12 +19,12 @@
 ## ⚒️ Tools
 [![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge)](https://visualstudio.microsoft.com/ko/)
 [![VSC](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)](https://code.visualstudio.com)
-[![intellij](https://img.shields.io/badge/Intellij-000000?logo=intellijidea&logoColor=white&style=for-the-badge)](https://unity.com/kr)
+[![intellij](https://img.shields.io/badge/Intellij-FF0089?logo=intellijidea&logoColor=white&style=for-the-badge)](https://unity.com/kr)
+[![Rider](https://img.shields.io/badge/rider-F7B93E?logo=rider&logoColor=white&style=for-the-badge)](https://unity.com/kr)
 [![Postman](https://img.shields.io/badge/postman-f06c38?logo=postman&logoColor=white&style=for-the-badge)](https://www.postman.com/)
 [![androidstudio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio&logoColor=white&style=for-the-badge)](https://developer.android.com/studio)
 [![PS](https://img.shields.io/badge/photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge)](https://www.adobe.com/kr/)
 [![PR](https://img.shields.io/badge/Primere_Pro-9999FF?logo=adobepremierepro&logoColor=white&style=for-the-badge)](https://www.adobe.com/kr/)
-
 ## 🗄️ Cloud & DevOps
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)](https://cloud.google.com/?hl=ko)
 [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge)](https://www.netlify.com/)

@@ -7,7 +7,6 @@
 [![Unity](https://img.shields.io/badge/Unity-000000?logo=Unity&logoColor=white&style=for-the-badge)](https://unity.com/kr)
 [![Python](https://img.shields.io/badge/python-3776AB?logo=Python&logoColor=white&style=for-the-badge)](https://www.python.org/)
 [![C/C++](https://img.shields.io/badge/C/C++-00599C?logo=C&logoColor=white&style=for-the-badge)](https://en.cppreference.com/w/)
-[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=Kotlin&logoColor=white&style=for-the-badge)](https://kotlinlang.org/)
 [![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)](https://kotlinlang.org/)
 [![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![HTML](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/)

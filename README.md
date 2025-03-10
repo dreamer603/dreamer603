@@ -1,7 +1,7 @@
 # 🎮 꿈을 현실로 만드는 개발자, 김명준입니다.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=id8969)](https://solved.ac/id8969)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dreamer603&theme=swift&langs_count=10&layout=compact)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4rNe5&theme=swift&langs_count=10&layout=compact)]()
 
 ## 📞 Contact Me
 - ✉️ **E-Mail (Click to Send)**

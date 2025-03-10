@@ -1,6 +1,8 @@
 # 🎮 꿈을 현실로 만드는 개발자, 김명준입니다.
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Game%20Developer&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Game%20Developer&fontSize=50)
+
+
 
 ## 📞 Contact Me
 - ✉️ **E-Mail (Click to Send)**

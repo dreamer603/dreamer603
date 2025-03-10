@@ -2,6 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Game%20Developer&fontSize=50)
 
+<img src="https://img.shields.io/badge/Unity-gray?style=for-the-badge&logo=Unity&logoColor=white"> <img src="https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=C#&logoColor=white"> <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=white">
 
 
 ## 📞 Contact Me

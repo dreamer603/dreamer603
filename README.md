@@ -10,10 +10,6 @@
     - [**Gmail**](mailto:mj617066@gmail.com)
     - [**Naver**](mailto:id8969@naver.com)
     - [**DGSW**](mailto:mj617066@dgsw.hs.kr)
-- 📱 **SNS**
-    - [**Instagram**](https://www.instagram.com/_aud_j/)
-- 📒 **Notion**
-    - [**Portfolio**](https://segod89.notion.site/dab1f5367a41459b9c55d24c1c86c7d4?pvs=4)
 
 <!--
 **dreamer603/dreamer603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

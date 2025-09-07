@@ -9,7 +9,6 @@
 - ✉️ **E-Mail (Click to Send)**
     - [**Gmail**](mailto:mj617066@gmail.com)
     - [**Naver**](mailto:id8969@naver.com)
-    - [**DGSW**](mailto:mj617066@dgsw.hs.kr)
 
 <!--
 **dreamer603/dreamer603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
